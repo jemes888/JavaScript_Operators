@@ -1,0 +1,15 @@
+body{
+	margin: 0;
+	padding: 0;
+}
+h1{
+	text-align: center;
+}
+.arithmetic-operators{
+	text-align: center;
+
+}
+.arithmetic-operators h2{
+	color: red;
+	border-bottom: 2px solid red;
+}
